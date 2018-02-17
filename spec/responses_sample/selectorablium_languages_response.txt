@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Server: GitHub.com
+Date: Fri, 16 Feb 2018 01:30:04 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 66
+Status: 200 OK
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 56
+X-RateLimit-Reset: 1518746821
+Cache-Control: public, max-age=60, s-maxage=60
+Vary: Accept
+ETag: "b4ceece9d764ba021773f3a1d8749183"
+Last-Modified: Wed, 14 Jun 2017 15:31:26 GMT
+X-GitHub-Media-Type: github.v3; format=json
+Access-Control-Expose-Headers: ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'none'
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-Runtime-rack: 0.027909
+X-GitHub-Request-Id: 9392:3C59:5EF481:D2464C:5A86341B
+
+{
+  "CoffeeScript": 60285,
+  "JavaScript": 17872,
+  "CSS": 5293
+}
