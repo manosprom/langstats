@@ -29,7 +29,9 @@ Usage: langstats [options]
 example:
 **langsats -v -o #org#**
 
-**Due to api limit of github which currently is 60 hits per hour**
+*Due to api limit of github which currently is 60 hits per hour
+app waits till the limit passes if it encouters a rate_limit error* **use
+verbose(-v) messages to see logging**
 
 you can use github credentials for authenticated client to get 5000 hits per hour
 
